@@ -1,4 +1,5 @@
 import './modal.css'
+import React from 'react'
 
 export default function Modal({showModal, closeModal, message}) {
     return (

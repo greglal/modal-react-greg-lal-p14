@@ -1,7 +1,7 @@
 {
   "name": "modal-react-greg-lal-p14",
   "description": "HRnet modal for P14-wealth health project",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/index.js",
   "files": [
     "dist",
