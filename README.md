@@ -20,8 +20,15 @@ import Modal from "modal-react-greg-lal-p14"
 
 ```bash
 < >
-  <Modal />
+  <Modal showModal={ } closeModal={ }  message=" " />
 < />
+
+showModal => parameter to display modal
+cloModal  => parameter to close modal (for exemple by clicking on cross)
+message   => message to display in modal
+
+
+
 ```
 
 3. modify the style
